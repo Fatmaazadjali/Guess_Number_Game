@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+    background-image: url(../Imgs/bg.jpg);
+}
+
+.container{
+    text-align: center;
+    margin-top: 4%;
+    background: #635985;
+}
+.guessplace{
+    border-radius: 4px;
+    width: 20;
+}
+.guessSubmit{
+    border-radius: 4px;
+    margin-top: 5px;
+    padding: 3px;
+  box-shadow: 3px 3px 5px grey;
+  font-size: 14px;
+  font-weight: 600;
+  width: 70px;
+}
